@@ -1,4 +1,3 @@
-![MasterHead](https://www.big-red-digital.com/userfiles/images/services/software-development/software-development-banner.jpg)
 <h1 align="center">Hi 👋, I'm Yash Kumar Bansal</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmzrV1Ydb5s3GPcOYHzTb4cOisntgVEhnixHN_TxPF1RGsqLtTOz6kHtc_790OQaWLadQ&usqp=CAU">
